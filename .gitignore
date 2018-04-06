@@ -1,0 +1,6 @@
+bulk_*
+build
+out
+.gradle
+.idea
+gradle
